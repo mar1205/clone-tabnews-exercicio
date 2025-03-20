@@ -1,0 +1,16 @@
+{
+  "name": "clone-tabnews-exercicio",
+  "version": "1.0.0",
+  "description": "Implemetacao do http://tabnews.com.br para o curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
